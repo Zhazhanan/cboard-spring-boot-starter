@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  org.huha.cboardspringbootstarter.db.starter.CboardAutoConfiguration
